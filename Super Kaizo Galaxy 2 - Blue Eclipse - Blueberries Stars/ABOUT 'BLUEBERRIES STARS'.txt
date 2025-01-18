@@ -1,0 +1,175 @@
+ > This version is ONLY meant to be played for the Blue Stars. Please, DO NOT USE THIS VERSION FOR YOUR NORMAL PLAYTHROUGH. Grandmaster and the custom Galaxy are NOT
+  changed, so you can play them on this version - 'Blueberries Stars' is meant to give option to skip some harder Galaxies and be closer to one or some of the Blue Stars.
+
+   -> What I mean by that is simple: we will take a quick example - Hightail Falls. Imagine re-doing that Galaxy twice for Blue Star 1 and 2. Are you feeling it? Do you
+  feel the insanity? Yeah; I get it. While it "nerfs" the difficulty of those Blue Stars, I do think some people do NOT have the want to re-do such Galaxies. You can now
+  understand what Blueberries Stars do.
+    It DO NOT CHANGE ANYTHING EXCEPT ADDING SOME PIPES*!!! I will list here below the Galaxies/Levels where I did add one or more pipes to give you a quicker access to
+  a checkpoint or a Blue Star. You DO NOT have to play this version to do the Blue Stars - if you wanted to do the Blue Stars only, without having done the normal
+  Galaxies first, I would advice you not play this version. Blueberries Stars is meant for people who already did the 144 Stars (or tried to get the most they could) and
+  don't want to re-do some Galaxies like Hightail Falls, Boss Blitz or GGen.
+
+   * The three exceptions to this rule will be shown this below. In case:
+      - Freezy Flake 1 (start).
+      - Flash Black 1 (start).
+      - Slipsand 1 (middle).
+
+
+
+ WORLD 1
+
+  Sky Station -> No pipe added. (Isn't hard/annoying enough imo)
+
+  Yoshi Star -> No pipe added. (Same reasoning)
+
+  Sweet Mystery -> As it's a Ball level, no pipe added. (Already explained)
+
+  Starshine Beach -> No pipe added. (No need for any)
+
+  Haunty Halls -> No pipe added. (While it could get one for Speedy Halls 2, I don't think it's hard enough to justify it - I also put a checkpoint there.)
+
+  Wild Glide -> No pipe added. (The checkpoint at the end is for Blue Star 3 - I don't think there is a need for BS1 or BS2.)
+
+  Fiery Flotilla -> No pipe added. (Too short and easy of a level)
+
+  [CUSTOM GALAXY] -> No pipe added. (No.)
+
+   * Like you can see, no pipe was added to World 1. I do not think anything here deserves pipes.
+
+
+ WORLD 2
+
+  Throwback -> No pipe added. (A checkpoint was added, so no need)
+
+  Spin-Dig -> No pipe added. (It's not hard enough to deserve it)
+
+  Boulder Bowl -> No pipe added. (Same reasoning, + they are pretty close)
+
+  Fleet Glide -> No pipe added. (Like Wild Glide, the checkpoint is there for a good reason)
+
+  Rightside-Down -> No pipe added. (It's a fun level and not hard enough overall)
+
+  Honeybloom -> One pipe added. (While I didn't want to, I think with how mean BS3 can be, it deserves one)
+
+  Lava Lair -> One pipe added. (The Bowser Statue jump is that hard. Yeah)
+
+   * I hesitated for Honeybloom, but honestly, I get it. Lava Lair was CLEARLY getting a pipe - there was just NO WAY I would have done it.
+
+
+ WORLD 3
+
+  Fluffy Bluff -> One pipe added. (The long-jump on clouds can be hard, so you can skip it this way)
+
+  Cloudy Court -> No pipe added. (Not hard enough overall)
+
+  Cosmic Cove -> No pipe added. (Not hard enough and they are close enough to you)
+
+  Slimy Spring -> No pipe added. (Come on. It's Slimy Spring.)
+
+  Beat Block -> No pipe added. (While a pretty hard Star overall, adding pipe to such a level feels wrong and can lead to you dying with the gravity)
+
+  Flip-Swap -> No pipe added. (While hard overall, it's not enough for me to give you a pipe)
+
+  Fearsome Fleet -> No pipe added. (Not hard enough overall)
+
+   * Just one pipe, but skipping that long-jump feels fair.
+
+
+ WORLD 4
+
+  Supermassive -> One pipe added. (Because of how MEAN the BS3 is. Only for that.)
+
+  Freezy Flake* -> No pipe added, but a change was made. (Made you able to spin at the beginning)
+
+  Honeyhop -> One pipe added. (Only because failing the Blue Star 3 can make you feel dead inside)
+
+  Rolling Coaster -> One pipe added. (It's extremely easy, but it can feel boring to do nothing while enjoying the music, ig?)
+
+  Chompworks -> No pipe added. (Seems insane, but I do NOT think it deserves it. The gravity switch at the end is not really that much used for this)
+
+  Tall Trunk -> No pipe added. (Can't find a good place to put one - not hard enough overall for one)
+
+  Gravity Gauntlet -> One pipe added. (Only so you can skip the annoying beginning)
+
+   * Already more pipes overall. It will just get worse, ig? Maybe.
+
+
+ WORLD 5
+
+  Space Storm -> No pipe added. (No need for any)
+
+  Hightail Falls -> One pipe added. (Of course. This whole version exists BECAUSE of Hightail Falls. lol)
+
+  Upside-Dizzy -> One pipe added. (Because of how MEAN the BS3 is)
+
+  Local Artistic -> No pipe added. (Ball level. I was not nerfing the precised jump, sorry!)
+
+  Mario Squared -> No pipe added. (While very hard, I can't find a good way to put a pipe for Blue Stars)
+
+  Flash Black* -> No pipe added. [Added a lever that you can activate if you want to skip the Star Chips. Optional]
+
+  Boom Bunker -> No pipe added. (While the Comet could deserve one, the time pressure can play around BS3, so...)
+
+    * Only two pipes and an optional addition! And it's World 5! Damn.
+
+
+ WORLD 6
+
+  Twisty Trials -> Two pipes added. (One for BS1/2 - One for BS3)
+
+  Clockwork Ruins -> No pipe added. (While killing enemies to spawn the Launch Star can be hard, I think it's fine to keep it this way)
+
+  Boss Blitz -> One pipe added. (For all Blue Stars)
+
+  Flipsville -> One pipe added. (Yeah. It's Flipsville. And even with this pipe, it feels horrible - skips the whole Star Chips section)
+
+  Slipsand* -> One pipe added. (To skip the whole beginning - just take it with the fire flower to not have to re-do everything.)
+                               [Also made the Launch Star spawn no matter what on the next planet - with it, an Used Block was put to have easier access to it for Blue Star 2.]
+
+  Battle Belt -> No pipe added. (Doesn't need any and it's MOTHER-FUCKING Battle Belt.)
+
+  Galaxy Generator -> Two pipes added. (One for BS2 - One for BS3)
+
+   * World 6 has... a lot of pipes. Clockwork Ruins could have one added and if I didn't love Battle Belt this much, maybe too. Yeah, welcome to World fucking 6.
+
+
+ WORLD S
+
+  Melty Monster -> One pipe added. (To get to Blue Star 2, in the Chimp Area, quicker)
+
+  Puzzle Plank -> No pipe added. (While I could have made you skip the start, I think it's a nice challenge. No need otherwise!)
+
+  Boo Moon -> One pipe added. (To go to the end for BS2)
+
+  Stone Cyclone -> No pipe needed. (While this Galaxy is PURE insanity, it's too short to have any pipe add-able)
+
+  Shiverburn -> No pipe needed. (No need.)
+
+  Flip-out -> One pipe added. (Only to skip the part after the first pipe, to go on top)
+
+  Grandmaster -> No pipe added. (First of all: No. Then, while I would have loved adding one for BS3, I straight up can't. You will understand why :D)
+
+    * And there you go. Some pipes there and there - Shiverburn maybe could deserve one, but I think most of its difficulty stems from the boss!
+
+
+
+
+ I hope "Blueberries Stars" could be a nice version for you. While some people could be MAD at people using this, as the creator, I will tell you: I don't give two cents.
+Re-doing some of these extremely hard levels or annoying to re-do is just... meh. While I think it's part of the challenge, I do not really care for some of them and with
+how mean some of them are, just have fun. + if you are like "Oooooh but I want to do them like it sh-" then why did you download this? I am NOT FUCKING AROUND GRRRRRR
+I AM GOING TO BITE YOU!!!!!!!!!!!!
+
+
+
+ (Other changes:
+   -> Sandstorm doesn't have a sandy fog anymore.
+   -> Put an arrow + removed a fog area from the Custom Galaxy.
+   -> Changed the text from collecting a Grand Star.
+   -> View Group of Slipsand BS2 is now "0", so you can see it from anywhere.
+   -> Honeyhop Blue Star 3 was put lower to not be TOO annoying anymore (as much as it was funny to ME).
+   -> Added an Arrow Sign in Ardor Ship to give a hint on where Blue Star 2 is (otherwise, it's too trial and error to find it).
+   -> Remove the "Remove Mario's Cap" Area in Twisty Trials 1/2 to be able to 1st person view.
+   -> Changed the place of Blue Star 3 in GGen so you could do it only one way.
+   -> Added a Flower Trap under Blue Star 3 of Honeyhop (thanks to The Clanker for the suggestion).
+   -> Reduced the fog area in Tall Trunk 2.
+   -> Some other changes...~)

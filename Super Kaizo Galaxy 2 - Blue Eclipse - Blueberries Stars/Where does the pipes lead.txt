@@ -1,0 +1,46 @@
+ > In this .txt, you can see where the pipes lead. It's kinda a better .txt than the other one. They can be found with an Used Block next to them.
+  Without further do:
+
+
+  - Honeybloom (Agreable Bloom Galaxy) -> BLUE STAR 3. [At the start of Mission 1]
+
+  - Lava Lair (Around The Solar System's Edges) -> BLUE STAR 3. [Before the Snake Block section, Mission 1]
+
+
+  - Fluffy Bluff (Orion Valley Galaxy) -> BLUE STAR 3. [Just before the long-jump on clouds after the 1st checkpoint, Mission 1]
+
+
+  - Supermassive (Familiar Mammoth Galaxy) -> BLUE STAR 3. [At the start of Mission 1]
+
+  - Honeyhop (Bee Village Galaxy) -> BLUE STARS 2 & 3. [At the start, on the right of Mission 1]
+
+  - Rolling Coaster (Rainbow Sidewalk Galaxy) -> BLUE STARS 2 & 3. [At the start of Mission 1]
+
+  - Gravity Gauntlet (Gravity's Broken Castle) -> BLUE STARS 1, 2 & 3. [At the start of Mission 1]
+
+
+  - Hightail Falls (Inferno's Walls Galaxy) -> BLUE STARS 1 & 2. [At the start of Mission 1]
+
+  - Upside-Dizzy (Gravity Castle Galaxy) -> BLUE STAR 3. [At the start of Mission 1]
+
+
+  - Twisty Trials (Speedy Speeds Galaxy) -> BLUE STARS 1 & 2. [At the start of Mission 1]
+                                         -> BLUE STAR 3. [At the start of Mission 3]
+
+  - Boss Blitz (Blue Bosses' Space Lair) -> BLUE STARS 1, 2 & 3. [At the start of Mission 1]
+
+  - Flipsville (Black Holes's City) -> BLUE STARS 1 & 2. [At the start of Mission 1]
+
+  - Slipsand* (Sandstorm Galaxy) -> BLUE STARS 1 & 2. [At the start of Mission 1]
+      * Also made the Launch Star spawn no matter what on the next planet - with it, an Used Block was put to have easier access to it for Blue Star 2.
+
+  - Galaxy Generator (The Center of Everything) -> BLUE STAR 2. [The one Used Block, start of Mission 1]
+                                                   BLUE STAR 3. [The two Used Blocks, start of Mission 1]
+
+
+  - Melty Monster (Eternal Damnation's Gateway) -> BLUE STAR 2. [At the start of Mission 1]
+                                                -> BLUE STAR 3. [At the start of Mission 2]
+
+  - Boo Moon (Nightmares' Locality) -> BLUE STAR 2. [At the start of Mission 1]
+
+  - Flip-Out (Road To The Unknown) -> BLUE STAR 2. [At the start of Mission 1]

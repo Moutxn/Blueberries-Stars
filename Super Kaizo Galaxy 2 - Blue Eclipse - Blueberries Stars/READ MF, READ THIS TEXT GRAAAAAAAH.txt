@@ -1,0 +1,13 @@
+ > In case you don't know, this version is meant ONLY for Blue Stars. Just take the "TBS" folder and replace the one in your current version of Blue Eclipse.
+  PLEASE.
+  PLEASE keep your current "TBS" folder and put it somewhere else, in case this crashes or if you want to take back the normal one. While it's easy to just take back a
+ "TBS" folder by redownloading the hack, there is no reason for that.
+
+
+   I would advice to have this "version" of the hack for the Blue Stars (AND BLUE STARS ONLY!!! DO *NOT* PLAY THIS VERSION IF YOU ARE PLAYING TO PLAY SOME NORMAL STARS!!
+ THIS VERSION IS *FOR ***BLUE STARS*** ONLY!!*) if you don't want to re-do some harder Stars or boring ones. If you want the full challenge, though, you can ignore the
+ pipes or just NOT take this folder.
+
+
+   There is already a 144 Stars save file in the SaveData folder. If you want to keep your own, you can just remove the GameSave inside of SavaData and replace by your
+ own SaveFile. If you lose your own save file, I won't help you - don't be dumb.
